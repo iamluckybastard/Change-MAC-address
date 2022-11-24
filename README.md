@@ -1,5 +1,5 @@
 || !! THIS PROGRAM IS ONLY FOR LINUX !! ||
-
+--------------------------------------------
 
 
 # About
@@ -8,7 +8,7 @@
 
 
 
-#Installation
+# Installation
 --------------
 # git clone https://github.com/iamluckybastard/Change-MAC-address
 

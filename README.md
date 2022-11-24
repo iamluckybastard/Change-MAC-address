@@ -1,5 +1,5 @@
-|| !! THIS PROGRAM IS ONLY FOR LINUX !! ||
---------------------------------------------
+# !! THIS PROGRAM IS ONLY FOR LINUX !! 
+--------------------------------------
 
 
 # About

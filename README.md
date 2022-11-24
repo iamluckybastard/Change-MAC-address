@@ -3,14 +3,12 @@
 
 
 # About
---------
 # Changes your MAC address faster
 ----------------------------------
 
 
 
 # Installation
---------------
 # git clone https://github.com/iamluckybastard/Change-MAC-address
 
 # cd Change-MAC-address

@@ -5,12 +5,12 @@
 # About
 --------
 # Changes your MAC address
-----------------------------------
+---------------------------
 
 
 
 # Installation
--------
+---------------
 # git clone https://github.com/iamluckybastard/Change-MAC-address
 
 # cd Change-MAC-address
@@ -18,7 +18,7 @@
 # python macchanger.py -i INTERFACE -m THE MAC ADDRESS YOU WANT
 
 # That's it! 
---------------------------------
+-------------
 
 
 

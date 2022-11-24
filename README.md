@@ -3,7 +3,7 @@
 
 
 # About
-# Changes your MAC address faster
+# Changes your MAC address
 ----------------------------------
 
 

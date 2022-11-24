@@ -5,6 +5,7 @@
 # About
 --------
 # Changes your MAC address faster
+----------------------------------
 
 
 
@@ -17,6 +18,7 @@
 # python macchanger.py -i INTERFACE -m THE MAC ADDRESS YOU WANT
 
 # That's it! 
+--------------------------------
 
 
 

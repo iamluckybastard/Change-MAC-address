@@ -3,12 +3,14 @@
 
 
 # About
+--------
 # Changes your MAC address
 ----------------------------------
 
 
 
 # Installation
+-------
 # git clone https://github.com/iamluckybastard/Change-MAC-address
 
 # cd Change-MAC-address
